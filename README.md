@@ -1,6 +1,6 @@
 # Kadri_Kaljo_Final_Project_TA-24_Aiahaldusrakendus
 
-                                                              **Garden Gem – Garden Management App 🌱💎**
+**Garden Gem – Garden Management App 🌱💎**
 
 Garden Gem is a smart assistant for every gardener – from beginners to seasoned green thumbs. Its main goal is to bring all aspects of gardening into one place, making care more systematic, simple, and enjoyable.
 
